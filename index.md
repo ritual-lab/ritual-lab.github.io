@@ -4,7 +4,7 @@
 
 Welcome to the RiTUAL Lab!
 
-{% include section.html %}
+<!-- {% include section.html %} -->
 
 <!-- ## Highlights -->
 
