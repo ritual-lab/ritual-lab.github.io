@@ -4,7 +4,9 @@
 
 Welcome to the RiTUAL Lab!
 
-<!-- {% include section.html %} -->
+
+{% comment %}
+{% include section.html %}
 
 <!-- ## Highlights -->
 
@@ -77,3 +79,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %} -->
+{% endcomment %}
